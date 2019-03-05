@@ -16,6 +16,7 @@
 * [课程结构](#课程结构)
 * [课程关系](#课程关系)
 * [课程目录](#课程目录)
+* [贡献投稿](#贡献投稿)
 
 # 版权说明
 本仓库分享资料遵守其创作者之规定。
@@ -59,10 +60,11 @@
 
 - [github 网页](#课程目录)
 - [脚本生成的网页](https://mbinary.xyz/ustc-cs/)
-- [gitzip 下载工具](https://kinolien.github.io/gitzip)
+- [DownGit](http://downgit.zhoudaxiaa.com/#/home)
+- [gitzip-chrome-extension](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn)
 
 注意，建议不要直接用 GitHub 仓库的 `Download Zip`。因为网速慢，而且仓库很大，很可能下载到中途就切断连接了。
-所以推荐用 gitzip 下载工具，方法很简单，在 GitHub 这里浏览网页到某个文件夹，然后将这个网页地址粘贴到 gitzip 下载即可。
+推荐用 DownGit 工具，方法很简单，在 GitHub 这里浏览网页到某个文件夹，然后将这个网页地址粘贴到 gitzip 下载即可。
 
 # 课程结构
 每门课程大致结构如下，有些栏目可能没有，也可以自己添加认为合理的栏目
